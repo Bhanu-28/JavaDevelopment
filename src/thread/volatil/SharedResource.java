@@ -14,6 +14,6 @@ public class SharedResource {
             System.out.println("working....");
         }
 
-        System.out.println("work stopped...");
+        System.out.println("worker stopped...");
     }
 }
