@@ -1,4 +1,4 @@
-package thread;
+package thread.deadlock;
 
 public class DeadLockDemo {
 
